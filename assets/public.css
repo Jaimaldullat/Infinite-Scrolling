@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i,900');
+html,body {
+    font-family: "Roboto Slab";
+
+    box-sizing: border-box;
+}
+body * {
+    box-sizing: border-box;
+}
+
+article.blog-post {
+    border: 1px solid #b36c2e;
+    padding: 10px;
+}
+
+article.blog-post header h2 {
+    color: #b36c2e;
+}
+
+article.blog-post header p {
+    color: rgba(192, 106, 52, 0.73);
+}
