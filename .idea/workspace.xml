@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b14f0dd7-92e2-42c9-8431-cfcda1022b7f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bf57bae3-c81e-4a9b-9c1d-a6e7fad5ff98.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bf57bae3-c81e-4a9b-9c1d-a6e7fad5ff98.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog_posts.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog_posts.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -239,12 +237,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552774836878</updated>
-      <workItem from="1552774838934" duration="16023000" />
+      <workItem from="1552774838934" duration="16055000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16023000" />
+    <option name="totallyTimeSpent" value="16055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
