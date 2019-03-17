@@ -11,6 +11,7 @@ body * {
 article.blog-post {
     border: 1px solid #b36c2e;
     padding: 10px;
+    margin: 20px 0px;
 }
 
 article.blog-post header h2 {
@@ -19,4 +20,15 @@ article.blog-post header h2 {
 
 article.blog-post header p {
     color: rgba(192, 106, 52, 0.73);
+}
+
+#spinner {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    display: none;
+}
+#spinner img {
+    width: 100px;
+    height: 100px;
 }
