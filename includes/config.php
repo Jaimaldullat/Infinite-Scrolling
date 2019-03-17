@@ -3,11 +3,11 @@
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASSWORD', '');
-define('DB_DATABSE', 'infinite_scrolling');
+define('DB_DATABASE', 'infinite_scrolling');
 
 // Connect to database
 function db_connect(){
-    $connection  = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_DATABSE);
+    $connection  = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_DATABASE);
     confirm_db_connect();
     return $connection;
 }

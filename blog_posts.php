@@ -2,6 +2,7 @@
 require_once "includes/config.php";
 
 define("POSTS_PER_PAGE", 10);
+
 // Check if request is AJAX or nor
 function is_ajax_request()
 {
@@ -23,6 +24,7 @@ function find_blog_posts($page)
 
 $page = isset($_GET['page']) ? (int)$_GET['page'] : 0;
 $posts = find_blog_posts($page); // Save all the posts in variable $posts ( Assoc array )
+
 ?>
 
 <?php while($post = mysqli_fetch_assoc($posts)): ?>

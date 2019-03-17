@@ -11,8 +11,6 @@
 </head>
 <body>
 <section id="blog-posts" data-page="0">
-
-
 </section>
 <div id="spinner">
     <img src="assets/spinner.gif" alt="Spinner">

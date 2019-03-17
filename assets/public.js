@@ -31,6 +31,7 @@ const hideSpinner = () => {
     spinner.style.display = 'none';
 }
 
+// Main function to call Ajax
 const loadMore = () => {
     if(is_request_in_progress) {
         return;
