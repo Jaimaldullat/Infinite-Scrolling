@@ -1,9 +1,9 @@
 <?php
 // Constants for database connectivity
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASSWORD', '');
-define('DB_DATABASE', 'infinite_scrolling');
+define('DB_HOST', 'us-cdbr-iron-east-03.cleardb.net');
+define('DB_USER', 'bfa8a47025f226');
+define('DB_PASSWORD', '49af3807');
+define('DB_DATABASE', 'heroku_289ea662a69d54d');
 
 // Connect to database
 function db_connect(){

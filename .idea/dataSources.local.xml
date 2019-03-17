@@ -11,5 +11,15 @@
       <user-name>root</user-name>
       <introspection-schemas>*:@,infinite_scrolling</introspection-schemas>
     </data-source>
+    <data-source name="heroku_289ea662a69d54d@us-cdbr-iron-east-03.cleardb.net" uuid="bf57bae3-c81e-4a9b-9c1d-a6e7fad5ff98">
+      <database-info product="MySQL" version="5.5.56-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.46 ( Revision: 9cc87a48e75c2d2e87c1a293b2862ce651cb256e )" dbms="MYSQL" exact-version="5.5.56" exact-driver-version="5.1">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>bfa8a47025f226</user-name>
+      <introspection-schemas>*:@</introspection-schemas>
+    </data-source>
   </component>
 </project>
