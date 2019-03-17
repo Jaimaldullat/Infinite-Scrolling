@@ -1,7 +1,7 @@
 <?php
 require_once "includes/config.php";
 
-define("POSTS_PER_PAGE", 10);
+define("POSTS_PER_PAGE", 5);
 
 // Check if request is AJAX or nor
 function is_ajax_request()
